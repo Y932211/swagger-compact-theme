@@ -6,7 +6,7 @@ Swagger default UI have too much unused space, so it makes you to scroll up and 
 
 In cases, where an API method returns a lot of different status codes, the information doesn't even fit on screen.
 
-When users needs to make a client for your API, they don't want to waste their time by scrolling
+When users needs to make a client for your API, they don't want to waste their time scrolling the page back and forth
 
 That's why we need a compact Swagger UI
 
