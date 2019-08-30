@@ -1,19 +1,27 @@
 # swagger-compact-theme
 
-## Features
+## Problem
 
-### A compact theme for Swagger UI
+Swagger default UI have too much unused space, so it makes you to scroll up and down a lot.
+
+In cases, where an API method returns a lot of different status codes, the information doesn't even fit on screen.
+
+When users needs to make a client for your API, they don't want to waste their time by scrolling
+
+That's why we need a compact Swagger UI
+
+## Solution
+
+### A compact theme
 
 ![Compact theme](https://github.com/creewick/swagger-compact-theme/blob/master/pictures/pic1.png?raw=true)
-A lot of space was saved by reducing margins around: API title, contoller titles, method titles, model blocks
+A lot of space was saved by reducing margins around: API title, contoller titles, method titles, model blocks, etc.
 
 ### Two-column view
 
 ![Two-column view](https://github.com/creewick/swagger-compact-theme/blob/master/pictures/pic2.png?raw=true)
 
-API method blocks are now shown as two columns: Parameters and Responses. 
-
-Some margins were removed from there, too.
+Showing an API method info in two-column view takes twice less space. Some margins were reduced there, too.
 
 ### Other tweaks
 
